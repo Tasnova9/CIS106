@@ -1,6 +1,6 @@
 # Question 1
 
-![q1]()
+![q1](lab4q1.png)
 
 # Question 2 
 
