@@ -12,7 +12,7 @@ People should use the free software/open-source alternative instead of the propr
   
 4.	Do you agree with Richard Stallman? Do you disagree? Explain your answer.
 
-I agree with Richard Stallman because I strongly believe in order to control the program the user needs certain access which symbolizes freedom to control the program when Stallman emphasizes. If users are restricted and any part of the essential freedom is missing then the users can not effectively work on the program on the given circumstances.  
+I agree with Richard Stallman because I strongly believe in order to control the program the user needs certain access which symbolizes freedom to control the program which Stallman emphasizes. If users are restricted and any part of the essential freedom is missing then the users can not effectively work on the program on the given circumstances.  
 	
 **Application Name Alternative**--**Open Source Alternative-**--**License Used by** 
 Skype-------------------------------Jitsi-------------------------Apache License, Version 2.0
